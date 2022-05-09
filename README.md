@@ -23,5 +23,5 @@ Angel Pena
 Daniel Zakosek
 Javier Parra
 William Collins
-Maximillin Cardenas
+Maximillian Cardenas
 
