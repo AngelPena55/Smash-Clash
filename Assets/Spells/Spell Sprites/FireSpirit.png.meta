@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: d42c9a9d8bc4fbd45b807f1fbcfc6fef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4748834437929474511
+    second: FireSpirit_2
+  - first:
+      213: 309540472721481762
+    second: FireSpirit_3
+  - first:
+      213: -5143042788863886440
+    second: FireSpirit_2
+  - first:
+      213: -6225607040871983850
+    second: FireSpirit_7
+  - first:
+      213: -4504255414707695227
+    second: FireSpirit_1
+  - first:
+      213: -1487602060022707315
+    second: FireSpirit_4
+  - first:
+      213: -8256480124159156010
+    second: FireSpirit_8
+  - first:
+      213: -209287768275591771
+    second: FireSpirit_3
+  - first:
+      213: 770622736075578589
+    second: FireSpirit_6
+  - first:
+      213: 3565767241951668448
+    second: FireSpirit_8
+  - first:
+      213: -4318519678964795712
+    second: FireSpirit_7
+  - first:
+      213: -2733170775088289565
+    second: FireSpirit_10
+  - first:
+      213: 7677831420972629789
+    second: FireSpirit_1
+  - first:
+      213: -4035479385813878985
+    second: FireSpirit_12
+  - first:
+      213: 8716709391756919801
+    second: FireSpirit_5
+  - first:
+      213: 3892420174183501534
+    second: FireSpirit_16
+  - first:
+      213: 8646803469352664480
+    second: FireSpirit_17
+  - first:
+      213: 1935009061401986116
+    second: FireSpirit_21
+  - first:
+      213: -6258346985258304705
+    second: FireSpirit_22
+  - first:
+      213: 1552548286981528514
+    second: FireSpirit_23
+  - first:
+      213: 725199816703346314
+    second: FireSpirit_24
+  - first:
+      213: 1736001519591550896
+    second: FireSpirit_18
+  - first:
+      213: 5471015705402194094
+    second: FireSpirit_19
+  - first:
+      213: 7847227776863767522
+    second: FireSpirit_20
+  - first:
+      213: 6667122021619898259
+    second: FireSpirit_14
+  - first:
+      213: 2905586168343785442
+    second: FireSpirit_31
+  - first:
+      213: -1818243264115135985
+    second: FireSpirit_27
+  - first:
+      213: -3122107392391392336
+    second: FireSpirit_13
+  - first:
+      213: -1408870612408205186
+    second: FireSpirit_25
+  - first:
+      213: 7857638471564196346
+    second: FireSpirit_26
+  - first:
+      213: 4993848030382415569
+    second: FireSpirit_28
+  - first:
+      213: -8833289054973522469
+    second: FireSpirit_32
+  - first:
+      213: -6591551043954061643
+    second: FireSpirit_9
+  - first:
+      213: -3723104229920274720
+    second: FireSpirit_12
+  - first:
+      213: -963894538074603305
+    second: FireSpirit_11
+  - first:
+      213: -3826533348523326132
+    second: FireSpirit_37
+  - first:
+      213: -2206840777774363938
+    second: FireSpirit_38
+  - first:
+      213: 4185342105688363064
+    second: FireSpirit_39
+  - first:
+      213: 8508621752452818169
+    second: FireSpirit_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireSpirit_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 802
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc99de9c2cf37e140800000000000000
+      internalID: 4748834437929474511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ab208b65bb4400800000000000000
+      internalID: 309540472721481762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 800
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b322125dd30a8b0800000000000000
+      internalID: -5143042788863886440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 814
+        width: 196
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61597a981633a99a0800000000000000
+      internalID: -6225607040871983850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 802
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d7bc909bad71c0800000000000000
+      internalID: -4504255414707695227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_6
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 814
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b053ddec9fa5be0800000000000000
+      internalID: -1487602060022707315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_8
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 814
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ab6062171b6d80800000000000000
+      internalID: -8256480124159156010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 808
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad591432e5781df0800000000000000
+      internalID: -209287768275591771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_13
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 608
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcdf97ab4dc1ba00800000000000000
+      internalID: 770622736075578589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_14
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 608
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e0401a662c7130800000000000000
+      internalID: 3565767241951668448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 616
+        width: 172
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f4c38b398114c0800000000000000
+      internalID: -4318519678964795712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 612
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8226839a3d11ad0800000000000000
+      internalID: -2733170775088289565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 602
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff76c9ff22d8a60800000000000000
+      internalID: 7677831420972629789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_12
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 598
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f62621e81ff7c0800000000000000
+      internalID: -4035479385813878985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_15
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 600
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f38bf93209f7f870800000000000000
+      internalID: 8716709391756919801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_16
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 602
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede85c68687a40630800000000000000
+      internalID: 3892420174183501534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 420
+        width: 196
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad716151fd9ff770800000000000000
+      internalID: 8646803469352664480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_21
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 406
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444070e3d788ada10800000000000000
+      internalID: 1935009061401986116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_22
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 406
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bba863392e529a0800000000000000
+      internalID: -6258346985258304705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_23
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 402
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbdc26f072cb8510800000000000000
+      internalID: 1552548286981528514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_24
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 402
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8608c9146d601a00800000000000000
+      internalID: 725199816703346314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 412
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfeac03f24871810800000000000000
+      internalID: 1736001519591550896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 412
+        width: 172
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b4112cc3fceb40800000000000000
+      internalID: 5471015705402194094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_20
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 406
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0b8f2614f6ec60800000000000000
+      internalID: 7847227776863767522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_30
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 214
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39796dc9720668c50800000000000000
+      internalID: 6667122021619898259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_31
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 210
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6b64c937b25820800000000000000
+      internalID: 2905586168343785442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 214
+        width: 196
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aab2f726d44c6e0800000000000000
+      internalID: -1818243264115135985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_29
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 214
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d3e54edb0ca4d0800000000000000
+      internalID: -3122107392391392336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 214
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e700cec74afa27ce0800000000000000
+      internalID: -1408870612408205186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 210
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f60fee80fb0d60800000000000000
+      internalID: 7857638471564196346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_28
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 210
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5a393356bd4540800000000000000
+      internalID: 4993848030382415569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd05ffb76ad96580800000000000000
+      internalID: -8833289054973522469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be4342cf3b1684a0800000000000000
+      internalID: -6591551043954061643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_36
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 12
+        width: 196
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e609d1cd60e45cc0800000000000000
+      internalID: -3723104229920274720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_35
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 12
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0cf19460f8f92f0800000000000000
+      internalID: -963894538074603305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_37
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 12
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45c410813c65eac0800000000000000
+      internalID: -3826533348523326132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_38
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 12
+        width: 172
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda89e4410abf51e0800000000000000
+      internalID: -2206840777774363938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_39
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 12
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305a016872551a30800000000000000
+      internalID: 4185342105688363064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpirit_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 4
+        width: 196
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4ac1b3762b41670800000000000000
+      internalID: 8508621752452818169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

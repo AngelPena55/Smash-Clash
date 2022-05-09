@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 5418677e29a07a949ad4ef3d820c6821
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4326933738086320440
+    second: Firework_SpriteSheet [Converted]_3
+  - first:
+      213: 5862766889961375246
+    second: Firework_SpriteSheet [Converted]_4
+  - first:
+      213: 8561361087764518232
+    second: Firework_SpriteSheet [Converted]_5
+  - first:
+      213: -8860481949521971586
+    second: Firework_SpriteSheet [Converted]_6
+  - first:
+      213: -5908684028178423654
+    second: Firework_SpriteSheet [Converted]_7
+  - first:
+      213: 2108582496307439360
+    second: Firework_SpriteSheet [Converted]_8
+  - first:
+      213: 2062176299873519214
+    second: Firework_SpriteSheet [Converted]_9
+  - first:
+      213: -656577024481122340
+    second: Firework_SpriteSheet [Converted]_10
+  - first:
+      213: -8851656708539874505
+    second: Firework_SpriteSheet [Converted]_11
+  - first:
+      213: -6678674473061332997
+    second: Firework_SpriteSheet [Converted]_12
+  - first:
+      213: -4606442848209566096
+    second: Firework_SpriteSheet [Converted]_13
+  - first:
+      213: -7284038527661169084
+    second: Firework_SpriteSheet [Converted]_14
+  - first:
+      213: 132500793124285949
+    second: Firework_SpriteSheet [Converted]_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 812
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c636b6b0b4a3f3c0800000000000000
+      internalID: -4326933738086320440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 523
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06c1159c6bbc5150800000000000000
+      internalID: 5862766889961375246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 511
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8555e0e9c8010d670800000000000000
+      internalID: 8561361087764518232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 507
+        width: 251
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e767bfb9c9e390580800000000000000
+      internalID: -8860481949521971586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 512
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a6629e23200ea0800000000000000
+      internalID: -5908684028178423654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 263
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e200db90334d10800000000000000
+      internalID: 2108582496307439360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 266
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c03a3b625e9c10800000000000000
+      internalID: 2062176299873519214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 260
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ae18ccae53e6f0800000000000000
+      internalID: -656577024481122340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 256
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73307c52f19982580800000000000000
+      internalID: -8851656708539874505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c5bea3f49053a0800000000000000
+      internalID: -6678674473061332997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0768452b2a0a210c0800000000000000
+      internalID: -4606442848209566096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462f743d85e9ea90800000000000000
+      internalID: -7284038527661169084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firework_SpriteSheet [Converted]_15
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1
+        width: 205
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd61a2f4ccb6d100800000000000000
+      internalID: 132500793124285949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

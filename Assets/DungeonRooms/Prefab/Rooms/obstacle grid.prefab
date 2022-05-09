@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3194657208752561309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3194657208752561314}
+  - component: {fileID: 3194657208752561315}
+  m_Layer: 0
+  m_Name: obstacle grid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3194657208752561314
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3194657208752561309}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3194657208752561315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3194657208752561309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0b58811add94742a41f686210a7604, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 2055102311959635369, guid: 413081fc53a78a043b38591243616398, type: 3}
+  - {fileID: 2577585254963922480, guid: f3cc2373308c11848977b28d974a9de0, type: 3}
+  - {fileID: 2577585254963922480, guid: 63ee4b6a40c55fd429759b807832ded1, type: 3}
+  - {fileID: 2577585254963922480, guid: ac719b1d0f58391469cc19fd947ca44c, type: 3}
+  - {fileID: 8150476868300563372, guid: 2e2ac125e54a1e44780363d638b1df34, type: 3}
+  - {fileID: 2577585254963922480, guid: fb2df5b680b64b449a78162ebcd98e97, type: 3}
+  - {fileID: 7947911505737750455, guid: f826bf48ad5bedc4ab6cabe6c4e498e8, type: 3}
+  - {fileID: 7947911505737750455, guid: d5762f992ea3bd544bb8287f66e8f844, type: 3}
+  - {fileID: 7947911505737750455, guid: 139b2d65b3145ad45bc13b6d111199de, type: 3}
+  - {fileID: 4477526382051923849, guid: 2cfbf7a3aa96ceb41a5c87c7cbdafdff, type: 3}
+  - {fileID: 7843500035364504687, guid: 2cfae1df9fe88f14a9c4f096b72ea809, type: 3}
+  - {fileID: 223134432602530782, guid: 47c53834001063044918bc37bad590ed, type: 3}
+  - {fileID: 785734851252385779, guid: 9cc2f2019d4f2c24fab864e6ab3a2ac1, type: 3}
+  - {fileID: 7906580866320265853, guid: 8d8c16b844938434c86a411e921d7df6, type: 3}
+  minimumObjects: 4
+  maximumObjects: 10
+  inScene: []
